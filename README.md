@@ -16,4 +16,5 @@ demo地址：https://github.com/treeandgrass/tensorflowofficialwebsitedemo/blob/
 
 描述：使用tensorflow的日志和监听器，获取更多模型的信息
 
-demo
+demo地址：https://github.com/treeandgrass/tensorflowofficialwebsitedemo/blob/master/logwithmonitor.ipynb
+参考：https://www.tensorflow.org/get_started/monitors
