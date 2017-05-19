@@ -10,3 +10,10 @@
 demo地址：https://github.com/treeandgrass/tensorflowofficialwebsitedemo/blob/master/tf_contrib_learn_with_get_input.ipynb
 
 参考：https://www.tensorflow.org/get_started/input_fn
+
+
+## 2017/5/18 tensorflow logging and monitor demo
+
+描述：使用tensorflow的日志和监听器，获取更多模型的信息
+
+demo
